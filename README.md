@@ -6,7 +6,7 @@ Docker compose file for testing/training purpose.
 
 * Jira, Confluence, BitBucket
 * Jenkins
-* SonaQube
+* Sonarqube
 * Postgres
 * Nginx
 
